@@ -1,2 +1,4 @@
 # bnan430-portfolio
 For this class, I'll use my GitHub account to keep all the charts and dashboards I make in Excel, Tableau, Power BI, and Adobe Express in one place. I'll also save different versions of my work as I improve it, along with short notes explaining why I made certain design choices. By the end of the course, my GitHub will be a portfolio showing how my work got better over time, so professors and employers can see both my final projects and the thinking behind them.
+
+Initial E-Commerce Profitability Analysis, Develop a basic profitability set of dashboards and explain your design, [a link to your published Tableau workbook](https://public.tableau.com/views/AdvancinginExcelandTableau1/DesignJustification?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), if I were to do it again I'd spend more time cleaning the excel file and make a storyboard on Tableau to make it more user friendly.
