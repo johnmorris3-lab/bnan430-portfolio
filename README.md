@@ -10,4 +10,4 @@ BNAN Retail Order Analysis, which accounts and business practices are actually l
 
 In Flex 3 and Flex 4, I used lookup formulas in Excel and joins in Tableau to connect my tables, and I had to redo my summaries by hand whenever the data changed. Power BI does this for me: I set up how the tables connect one time, and every chart updates on its own. For something that gets run every month, I would use Power BI, because everyone gets the same numbers and there is less chance of a mistake. A broken formula or a forgotten update can give a wrong answer without anyone noticing, and that risk matters more to me than saving time. For a quick, one-time question on a small file, I would still use Excel or Tableau, since setting up a full model isn't worth it for one answer.
 
-[View my Tableau story] (https://public.tableau.com/views/IntroductiontoPowerBIStatementofAccomplishment/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View my Tableau story](https://public.tableau.com/views/IntroductiontoPowerBIStatementofAccomplishment/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
