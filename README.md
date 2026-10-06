@@ -13,7 +13,7 @@ In Flex 3 and Flex 4, I used lookup formulas in Excel and joins in Tableau to co
 [View my Tableau story](https://public.tableau.com/views/IntroductiontoPowerBIStatementofAccomplishment/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 BNAN 430, Introduction to DAX in Power BI (completed 10/05/2026)
-
+[![Power BI certificate](certificates/Introduction-to-DAX-Power-BI.png)
 
 I calculated Margin % in the Order Data tab by dividing Profit by Revenue for each order line. I would build Margin % as a calculated column in Power BI because it is a fixed property of each individual order row and does not need to change based on what the user filters. Moving this calculation into the Power BI model gives Anita or Marcus a consistent margin percentage they can use in reports without having to recreate the formula in their workbook. This means they can analyze individual orders themselves and reduces the need to ask me to calculate or update the number for them.
 
