@@ -20,7 +20,7 @@ I calculated Margin % in the Order Data tab by dividing Profit by Revenue for ea
 [View my Tableau story](https://public.tableau.com/app/profile/john.morris5935/viz/IntroductiontoPowerBIStatementofAccomplishment/Story1#1)
 
 BNAN 430, Data Visualization in Power BI (completed 10/12/2026)
-![Power BI certificate](certificates/Introduction-to-DAX-Power-BI.png)
+![Power BI certificate](certificates/data-visual-in-powerbi.png)
 
 I am ready for business intelligence work at Southwest because I can point to specific work and say how I would improve it. In Flex 4, my Cap Discounts at 20% dashboard showed Total Profit by Discount Band, but Marcus had to filter by Segment and Tier to find the weak bands; in Power BI I would rebuild it as a matrix with conditional formatting so they stand out in one view. In Flex 6, I calculated Margin % in the Order Data tab as Profit divided by Revenue for each order line, which I would build as a calculated column in Power BI so Anita and Marcus share one consistent number.
 In Flex 3 and Flex 4 I used lookup formulas in Excel and joins in Tableau, and I redid my summaries by hand whenever the data changed; in Power BI I set up how the tables connect one time and every chart updates on its own. For work that gets run every month I would use Power BI, since everyone gets the same numbers; for a quick, one-time question on a small file I would still use Excel or Tableau. My gap is that I have only used Power BI in DataCamp’s browser, never on real company data, so I would rebuild the margin report from a Southwest extract and have Anita check it first.
