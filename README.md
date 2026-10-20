@@ -27,5 +27,5 @@ In Flex 3 and Flex 4 I used lookup formulas in Excel and joins in Tableau, and I
 
 [View my Tableau story](https://public.tableau.com/app/profile/john.morris5935/viz/IntroductiontoPowerBIStatementofAccomplishment/Story1#1)
 
-BNAN 430, Advancing in Excel & Tableau - Pt. 3: Card Portfolio Review - Contact Readiness (completed 10/19/2026)
+BNAN 430, Advancing in Excel & Tableau - Pt. 3: Card Portfolio Review - Contactless Readiness (completed 10/19/2026)
 Which non-contactless cards should Bear Down Bank replace early with this quarter’s one-time budget, and what will it cost? [View the Tableau workbook](https://public.tableau.com/app/profile/john.morris5935/viz/BearDownBankCardPortfolioReview_17924853039480/ExploratoryDash#1). If I did it again, I would do all the calculated fields in Excel instead of in Tableau.
