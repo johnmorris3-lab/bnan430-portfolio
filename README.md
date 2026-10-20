@@ -26,3 +26,6 @@ I am ready for business intelligence work at Southwest because I can point to sp
 In Flex 3 and Flex 4 I used lookup formulas in Excel and joins in Tableau, and I redid my summaries by hand whenever the data changed; in Power BI I set up how the tables connect one time and every chart updates on its own. For work that gets run every month I would use Power BI, since everyone gets the same numbers; for a quick, one-time question on a small file I would still use Excel or Tableau. My gap is that I have only used Power BI in DataCamp’s browser, never on real company data, so I would rebuild the margin report from a Southwest extract and have Anita check it first.
 
 [View my Tableau story](https://public.tableau.com/app/profile/john.morris5935/viz/IntroductiontoPowerBIStatementofAccomplishment/Story1#1)
+
+Advancing in Excel & Tableau - Pt. 3: Card Portfolio Review - Contact Readiness
+Which non-contactless cards should Bear Down Bank replace early with this quarter’s one-time budget, and what will it cost? [View the Tableau workbook](https://public.tableau.com/app/profile/john.morris5935/viz/BearDownBankCardPortfolioReview_17924853039480/ExploratoryDash#1). If I did it again, I would do all the calculated fields in Excel instead of in Tableau.
