@@ -29,3 +29,7 @@ In Flex 3 and Flex 4 I used lookup formulas in Excel and joins in Tableau, and I
 
 BNAN 430, Advancing in Excel & Tableau - Pt. 3: Card Portfolio Review - Contactless Readiness (completed 10/19/2026)
 Which non-contactless cards should Bear Down Bank replace early with this quarter’s one-time budget, and what will it cost? [View the Tableau workbook](https://public.tableau.com/app/profile/john.morris5935/viz/BearDownBankCardPortfolioReview_17924853039480/ExploratoryDash#1). If I did it again, I would do all the calculated fields in Excel instead of in Tableau.
+
+Advancing in Excel & Tableau – Pt. 4: Card Growth Analysis – Wildcat Rewards Offer. (completed 10/26/2026)
+Which group of Bear Down Bank customers should receive the Wildcat Rewards pilot mailing, based on where eligible customers are most concentrated? View the published Tableau workbook. If I did it again, I would build the calculated fields in the Excel file first.
+[View the Tableau Workbook](https://public.tableau.com/app/profile/john.morris5935/viz/WildcatRewardsCardGrowth/ExploratoryDashboard?publish=yes)
