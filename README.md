@@ -34,7 +34,7 @@ Advancing in Excel & Tableau – Pt. 4: Card Growth Analysis – Wildcat Rewards
 Which group of Bear Down Bank customers should receive the Wildcat Rewards pilot mailing, based on where eligible customers are most concentrated? View the published Tableau workbook. If I did it again, I would build the calculated fields in the Excel file first.
 [View the Tableau Workbook](https://public.tableau.com/app/profile/john.morris5935/viz/WildcatRewardsCardGrowth/ExploratoryDashboard?publish=yes)
 
-Nov 3, 2026 · Data Storytelling with Adobe Express
+Data Storytelling with Adobe Express (completed 11/02/2026)
 
 Work sample for Sam Okafor, Chief Credit Officer at Bear Down Bank: lower the Wildcat Rewards minimum FICO score from 670 to 650, which adds 51 eligible customers while keeping the 2.0 debt-to-income cap.
 
