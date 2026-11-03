@@ -33,3 +33,17 @@ Which non-contactless cards should Bear Down Bank replace early with this quarte
 Advancing in Excel & Tableau – Pt. 4: Card Growth Analysis – Wildcat Rewards Offer. (completed 10/26/2026)
 Which group of Bear Down Bank customers should receive the Wildcat Rewards pilot mailing, based on where eligible customers are most concentrated? View the published Tableau workbook. If I did it again, I would build the calculated fields in the Excel file first.
 [View the Tableau Workbook](https://public.tableau.com/app/profile/john.morris5935/viz/WildcatRewardsCardGrowth/ExploratoryDashboard?publish=yes)
+
+Nov 3, 2026 · Data Storytelling with Adobe Express
+
+Work sample for Sam Okafor, Chief Credit Officer at Bear Down Bank: lower the Wildcat Rewards minimum FICO score from 670 to 650, which adds 51 eligible customers while keeping the 2.0 debt-to-income cap.
+
+[Work Sampl(PDF)](adobe/morris-data-storytelling.pdf) [Adobe Express](https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:97b822a9-a7fd-4003-9298-e8899710badb?accept=true&invite=true&promoid=Z2G1FQKR&mv=other)
+
+Design choice: I used a bar chart of eligible customers at each minimum FICO score, with today's 670 and the proposed 650 marked, because Sam needs to see exactly how many customers each step down adds before deciding where to stop. I added a small table of average debt-to-income by group to show why 650 is the stopping point: the 40 customers who would be added at 630 carry heavier debt (1.37) than the 51 added at 650 (1.23). I removed the y-axis tick marks on the bar chart, because it was something that took up space and wasn't needed after adding labels to the bars.
+
+Training completed: 11/02/2026
+
+AI use: Anthropic. (2026). Claude Claude Sonnet 5.5 [Large language model]. https://claude.ai. Used 11/02/2026, in a separate chat on a different account, to create the Morris Solutions logo.
+
+Prompts: "Make a logo for a consulting company called Morris Solutions"
