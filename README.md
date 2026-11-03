@@ -39,6 +39,7 @@ Nov 3, 2026 · Data Storytelling with Adobe Express
 Work sample for Sam Okafor, Chief Credit Officer at Bear Down Bank: lower the Wildcat Rewards minimum FICO score from 670 to 650, which adds 51 eligible customers while keeping the 2.0 debt-to-income cap.
 
 ![Work Sample](adobe/morris-data-storytelling.png) 
+
 [Adobe Express](https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:97b822a9-a7fd-4003-9298-e8899710badb?accept=true&invite=true&promoid=Z2G1FQKR&mv=other)
 
 Design choice: I used a bar chart of eligible customers at each minimum FICO score, with today's 670 and the proposed 650 marked, because Sam needs to see exactly how many customers each step down adds before deciding where to stop. I added a small table of average debt-to-income by group to show why 650 is the stopping point: the 40 customers who would be added at 630 carry heavier debt (1.37) than the 51 added at 650 (1.23). I removed the y-axis tick marks on the bar chart, because it was something that took up space and wasn't needed after adding labels to the bars.
