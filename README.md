@@ -54,7 +54,7 @@ Product Pitch with Generative AI in Adobe Express (completed 11/16/2026)
 
 Pitch to Sam Okafor, Chief Credit Officer at Bear Down Bank: approve a six-week first phase to test lowering the Wildcat Rewards minimum FICO to 650.
 
-![Pitch deck (PDF)](adobe/morris-product-pitch.pdf) · [Adobe Express](https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:08b01a6e-fbeb-5bf2-9753-2821cd43c84d?accept=true&invite=true&promoid=Z2G1FQKR&mv=other)
+[Pitch deck (PDF)](adobe/morris-product-pitch.pdf) · [Adobe Express](https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:08b01a6e-fbeb-5bf2-9753-2821cd43c84d?accept=true&invite=true&promoid=Z2G1FQKR&mv=other)
 
 Toughest objection: "Won't a lower minimum FICO add credit risk?" Slide 6 answers it: the 51 customers added at 650 average a debt-to-income of 1.23, compared with 1.05 today and 1.37 for the 40 customers a 630 minimum would add, so we recommend stopping at 650 and reviewing repayment risk in Phase 1.
 
