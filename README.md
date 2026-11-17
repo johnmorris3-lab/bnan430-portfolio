@@ -51,3 +51,5 @@ AI use: Anthropic. (2026). Claude Claude Sonnet 5.5 [Large language model]. http
 Prompts: "Make a logo for a consulting company called Morris Solutions"
 
 Product Pitch with Generative AI in Adobe Express (completed 11/16/2026)
+
+[Adobe Express](https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:08b01a6e-fbeb-5bf2-9753-2821cd43c84d?accept=true&invite=true&promoid=Z2G1FQKR&mv=other)
