@@ -49,3 +49,5 @@ Training completed: 11/02/2026
 AI use: Anthropic. (2026). Claude Claude Sonnet 5.5 [Large language model]. https://claude.ai. Used 11/02/2026, in a separate chat on a different account, to create the Morris Solutions logo.
 
 Prompts: "Make a logo for a consulting company called Morris Solutions"
+
+Product Pitch with Generative AI in Adobe Express (completed 11/16/2026)
