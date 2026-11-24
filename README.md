@@ -66,7 +66,7 @@ Brand Standard Application in Tableau (completed 11/23/2026)
 
 Rebranded a public IMDb movie dashboard, then built a brief for Dana Ruiz, VP of Advertising Sales: which two or three genres should lead next year's ad pitch?
 
-[Tableau workbook](PASTE-YOUR-PUBLIC-LINK)
+[Tableau workbook]([PASTE-YOUR-PUBLIC-LINK](https://public.tableau.com/app/profile/john.morris5935/viz/DataPlusMovies2000-2023_17955158883010/DataMoviesIMDbDashboard?publish=yes))
 
 One thing I'd change is I would choose the dark theme before formatting anything.
 
