@@ -61,3 +61,13 @@ Toughest objection: "Won't a lower minimum FICO add credit risk?" Slide 6 answer
 AI use: Claude Sonnet 5.5 (Anthropic), November 16-17, 2026, used to plan the deck structure, suggest draft slide titles and text (slides 1-8), identify the toughest objection (slide 6), and review screenshots of each slide for feedback on wording, layout, accessibility, and number accuracy. No AI-generated images, charts, or numbers appear in the deck; all figures come from my own analysis.
 
 Training completed: 11/16/2026
+
+Brand Standard Application in Tableau (completed 11/23/2026)
+
+Rebranded a public IMDb movie dashboard, then built a brief for Dana Ruiz, VP of Advertising Sales: which two or three genres should lead next year's ad pitch?
+
+[Tableau workbook](PASTE-YOUR-PUBLIC-LINK)
+
+One thing I'd change is I would choose the dark theme before formatting anything.
+
+AI use: Claude helped draft the information panel text and design documentation, November 23, 2026.
